@@ -7,7 +7,7 @@ All the solutions are implemented in C/C++
 
 -----------
 
-#UVa:
+##UVa:
 
 1. [100 - The 3n + 1 problem] (https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36)
 2. [441 - Lotto] (https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=382)
@@ -25,6 +25,6 @@ All the solutions are implemented in C/C++
 
 ------------
 
-# GeeksForGeeks:
+## GeeksForGeeks:
 
 1. [590 - Subarray with given sum] (http://www.practice.geeksforgeeks.org/problem-page.php?pid=590)
